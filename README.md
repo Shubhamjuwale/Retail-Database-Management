@@ -1,2 +1,2 @@
 # Retail-Database-Management
-SQL-based Online Retail Database project featuring JOINs, subqueries, aggregate functions, views, and business analysis queries using Microsoft SQL Server and SSMS.
+Online Retail Database Management project built using SQL in Microsoft SQL Server. This project includes real-world retail and e-commerce queries involving product analysis, order management, customer insights, payment tracking, store management, JOIN operations, subqueries, aggregate functions, and data manipulation. Developed as a group project to practice database design, SQL querying, and business-oriented data analysis using SSMS.
