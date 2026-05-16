@@ -1,0 +1,13 @@
+Queries
+1. Find the product that has been ordered the most times.
+2. Find all the orders that were placed for products that are sold by stores in the city of Toronto. 
+3. Update the name and contact phone number of the address where the province is Quebec and city is Montreal.       
+4. Create a report of all products whose price is above average price using subquery.
+5. Query the total quantity of products from store with storeid 8 in the shopping cart using a subquery. 
+6. Display the total quantity of products from store with storeid 8 in the shopping cart
+7. Update the payment state of orders to unpaid which were created after year 2017 and with a total amount greater than 50
+8. Find all the details of the buyers who have a phone number that starts with the contact number 91.
+9. Delete the store which opened before year 2017
+10. Retrieve all stores and their associated managers
+11. Display the address, starttime and endtime of the service points in the same city as that of  userid 5 
+12. Retrieve all credit card payments and their associated order information
